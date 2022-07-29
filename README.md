@@ -11,3 +11,8 @@ from an API using a specific command.
 * Set `JobSityNETChallenge.Services.Api` as startup project and execute `Update-Database -Context JobSityNETChallengeContext` and `Update-Database -Context EventStoreSqlContext` to generate the database
 * Run the UI Client with `npm start`
 * Configure `JobSityNETChallenge.Services.Api` and `StockBot` as multiple startup sessions and start the backend
+
+### Bonus assignments made
+* Several chatrooms
+* .NET Identity
+* Handle Bot error if stock doesn't exist
