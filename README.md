@@ -15,4 +15,4 @@ from an API using a specific command.
 ### Bonus assignments made
 * Several chatrooms
 * .NET Identity
-* Handle Bot error if stock doesn't exist
+* Handle Bot errors
