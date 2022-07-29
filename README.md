@@ -16,3 +16,6 @@ from an API using a specific command.
 * Several chatrooms
 * .NET Identity
 * Handle Bot errors
+
+### Demo video
+* https://youtu.be/NuRCV38q83E
