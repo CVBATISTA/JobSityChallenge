@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.1.0" />
+    <PackageReference Include="NetDevPack" Version="6.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JobSityNETChallenge.Domain\JobSityNETChallenge.Domain.csproj" />
+    <ProjectReference Include="..\JobSityNETChallenge.Infra.Data\JobSityNETChallenge.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
